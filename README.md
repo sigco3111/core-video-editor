@@ -4,7 +4,7 @@
 
 이 프로젝트는 최신 웹 기술과 Google의 강력한 Gemini AI를 결합하여 사용자에게 직관적이면서도 강력한 비디오 편집 경험을 제공하는 클라이언트 사이드 비디오 편집기입니다. 사용자는 로컬 비디오 파일을 업로드하고, 타임라인 기반으로 편집하며, AI 기반의 고급 기능을 활용하여 창의적인 비디오 콘텐츠를 손쉽게 제작할 수 있습니다. 모든 처리 과정은 브라우저 내에서 이루어지며, 작업 내용은 자동으로 로컬에 저장됩니다.
 
-실행주소1 : https://core-video-editor.vercel.app/
+실행주소1 : https://sigco3111.github.io/core-video-editor/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
