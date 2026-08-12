@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <title>코어 비디오 에디터 파비콘</title>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <!-- 배경 원 -->
+    <circle fill="#2D3748" cx="16" cy="16" r="16"></circle>
+    <!-- 영상 재생 버튼 아이콘 -->
+    <path d="M22,16 L13,22 L13,10 L22,16 Z" fill="#FFFFFF"></path>
+    <!-- 타임라인을 표현하는 줄 -->
+    <rect fill="#718096" x="8" y="24" width="16" height="2" rx="1"></rect>
+  </g>
+</svg> 
